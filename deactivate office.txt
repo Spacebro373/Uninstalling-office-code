@@ -1,0 +1,9 @@
+  :-cd C:\Program Files\Microsoft Office\Office16
+
+
+  :-cscript ospp.vbs /dstatus
+
+  
+ Type the last five Charactors of your product key infront of this code 
+  :-cscript ospp.vbs /unpkey:
+   
